@@ -6,9 +6,8 @@
 ![Execution Framework](https://img.shields.io/badge/Execution-Framework-purple)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
-Author: Somer Walker
-
-Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
+> **Author:** Somer Walker
+> Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
 
 This repository documents a collection of practical patterns for leading large-scale technology transformation initiatives.
 
@@ -127,16 +126,12 @@ This repository provides conceptual documentation, examples, and templates for e
 
 Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
 
----
-
 ## Framework Context
 
 This repository is a supporting component of the **Transformation Operating Framework**.
 
 Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
-
----
 
 ## Author
 
@@ -146,14 +141,10 @@ Enterprise Program Leader | Operational Excellence | AI Transformation
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
 
----
-
 ## Contributing
 
 Suggestions, improvements, and additional examples are welcome.  
 Please review `CONTRIBUTING.md` before submitting a pull request.
-
----
 
 ## Copyright
 
