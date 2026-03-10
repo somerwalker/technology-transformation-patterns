@@ -13,6 +13,17 @@ This repository captures those recurring patterns and describes practical approa
 
 ---
 
+## Part of the Transformation Operating Framework
+
+This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
+
+The master framework repository provides the conceptual architecture connecting the various supporting modules.
+
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+---
+
 ## Why Transformation Patterns Matter
 
 Technology transformations rarely occur in completely unique situations. Most organizations encounter similar structural challenges when evolving their technology platforms or operating models.
@@ -104,18 +115,42 @@ https://github.com/somerwalker/transformation-operating-system
 
 ---
 
-## Contributing
+## Intellectual Property
 
-Contributions and suggestions are welcome. If you have ideas for additional transformation patterns or improvements to existing ones, please review the guidelines in `CONTRIBUTING.md` before submitting a proposal.
+The frameworks and methodologies documented in this repository are original work created by Somer Walker as part of the **Transformation Operating Framework**.
+
+This repository provides conceptual documentation, examples, and templates for educational and professional reference.
+
+Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
+
+---
+
+## Framework Context
+
+This repository is a supporting component of the **Transformation Operating Framework**.
+
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
 ## Author
 
-**Somer Walker**  
-Enterprise Program Leader | AI Transformation | Operational Excellence
-
-Background leading complex infrastructure, cloud, and AI initiatives across global organizations, focused on turning strategy into disciplined execution.
+Somer Walker  
+Enterprise Program Leader | Operational Excellence | AI Transformation
 
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
+
+---
+
+## Contributing
+
+Suggestions, improvements, and additional examples are welcome.  
+Please review `CONTRIBUTING.md` before submitting a pull request.
+
+---
+
+## Copyright
+
+Copyright © 2026 Somer Walker
