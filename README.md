@@ -6,8 +6,8 @@
 ![Execution Framework](https://img.shields.io/badge/Execution-Framework-purple)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
-> **Author:** Somer Walker
-> Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
+> **Author:** Somer Walker  
+> Creator of the **Transformation Operating Framework**, a model for aligning strategy, governance, and program execution in complex organizations.
 
 This repository documents a collection of practical patterns for leading large-scale technology transformation initiatives.
 
@@ -28,7 +28,7 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Why Technology Transformation Patterns Matter
+## Why Technology Transformation Patterns matter
 
 Technology transformations rarely occur in completely unique situations. Most organizations encounter similar structural challenges when evolving their technology platforms or operating models.
 
@@ -44,7 +44,7 @@ Recognizing these recurring patterns helps leaders anticipate risks, select appr
 
 ---
 
-## Transformation Pattern Model
+## Repository Model
 
 Each transformation pattern in this repository follows a consistent structure.
 
@@ -58,9 +58,9 @@ A[Context]
 --> E[Expected Results]
 ```
 
-This structure ensures patterns are documented consistently and allows transformation leaders to understand not only the solution approach but also the conditions that make a particular pattern effective.
+This structure defines the format used for documenting transformation patterns within the repository. It ensures that each pattern clearly explains the conditions in which the pattern applies, the forces influencing the situation, the structural solution used, and the results organizations should expect.
 
-By capturing transformation initiatives as patterns, organizations can more easily compare approaches, identify risks, and apply proven solutions across different contexts.
+By using a consistent model, organizations can more easily compare transformation approaches, identify risks, and apply proven patterns across different initiatives.
 
 ---
 
@@ -97,11 +97,11 @@ These patterns provide practical guidance for structuring large-scale technology
 
 ---
 
-## Relationship to the Transformation Operating System
+## Relationship to the Transformation Operating Framework
 
-This repository is part of the broader **Transformation Operating System** framework.
+Within the Transformation Operating Framework, transformation patterns describe the organizational and technical structures used to implement change. They bridge the gap between governance decisions and program execution by providing practical models for transformation initiatives. 
 
-Within the Transformation Operating System, transformation patterns describe the organizational and technical structures used to implement change. They bridge the gap between governance decisions and program execution by providing practical models for transformation initiatives.
+This repository defines the transformation patterns that guide strategic technology transformation decisions within the Strategy layer of the Transformation Operating Framework.
 
 ```mermaid
 flowchart TB
@@ -114,7 +114,7 @@ Strategy[Strategy]
 ```
 
 See the architecture overview:  
-https://github.com/somerwalker/transformation-operating-system
+https://github.com/somerwalker/transformation-operating-framework
 
 <hr style="height:5px; background-color: #000; border: none;">
 
