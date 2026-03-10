@@ -6,17 +6,25 @@ This repository documents recurring patterns observed in large-scale technology 
 
 Patterns capture common transformation scenarios and describe effective approaches based on real-world organizational experience.
 
+This repository is part of the **Transformation Operating Framework**, a collection of repositories documenting frameworks for aligning strategy, governance, and execution across complex organizations.
+
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
 ---
 
-## Ways to Contribute
+## Contribution Guidelines
 
-Contributions are welcome in several forms, including:
+Contributions that improve clarity, documentation quality, or practical examples are welcome.
 
-- proposing new transformation patterns
-- improving clarity of existing pattern descriptions
-- refining diagrams or documentation
-- adding real-world examples of transformation initiatives
-- suggesting improvements to the pattern structure
+Examples include:
+
+- documentation improvements
+- diagrams or visual explanations
+- additional examples
+- corrections or clarifications
+
+Please ensure contributions maintain the professional and educational intent of the framework documentation.
 
 ---
 
