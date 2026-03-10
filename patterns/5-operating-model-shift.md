@@ -63,3 +63,13 @@ Organizations applying this pattern often achieve:
 ## Relationship to the Transformation Operating System
 
 Operating model shifts support the **Transformation and Execution layers** of the Transformation Operating System.
+
+---
+
+Part of the Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+Copyright © 2026 Somer Walker
+
+This material is provided for educational and professional reference.  
+Commercial use or derivative consulting frameworks requires permission from the author.
