@@ -3,13 +3,18 @@
 ![Technology Transformation](https://img.shields.io/badge/Technology-Transformation-blue)
 ![Enterprise Architecture](https://img.shields.io/badge/Enterprise-Architecture-green)
 ![Pattern Library](https://img.shields.io/badge/Transformation-Patterns-purple)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Execution Framework](https://img.shields.io/badge/Execution-Framework-purple)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
-A collection of practical patterns for leading large-scale technology transformation initiatives.
+Author: Somer Walker
 
-Technology transformation efforts often follow recurring structural patterns. Organizations may approach them differently, but the underlying challenges and solution approaches tend to repeat across industries.
+Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
 
-This repository captures those recurring patterns and describes practical approaches for navigating common transformation scenarios.
+This repository documents a collection of practical patterns for leading large-scale technology transformation initiatives.
+
+Technology transformation efforts often follow recurring structural patterns. While organizations may approach them differently, the underlying challenges and solution approaches tend to repeat across industries.
+
+This repository captures those recurring patterns and documents practical approaches for navigating common transformation scenarios.
 
 ---
 
@@ -24,11 +29,11 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Why Transformation Patterns Matter
+## Why Technology Transformation Patterns Matter
 
 Technology transformations rarely occur in completely unique situations. Most organizations encounter similar structural challenges when evolving their technology platforms or operating models.
 
-Common examples include:
+Common transformation scenarios include:
 
 - modernizing legacy systems  
 - migrating infrastructure to cloud platforms  
@@ -36,13 +41,13 @@ Common examples include:
 - adopting AI and data-driven capabilities  
 - shifting operating models to support new technologies  
 
-Recognizing these patterns helps leaders anticipate risks, select appropriate approaches, and coordinate transformation initiatives more effectively.
+Recognizing these recurring patterns helps leaders anticipate risks, select appropriate approaches, and coordinate transformation initiatives more effectively.
 
 ---
 
 ## Transformation Pattern Model
 
-Each pattern in this repository follows a consistent structure:
+Each transformation pattern in this repository follows a consistent structure.
 
 ```mermaid
 flowchart LR
@@ -54,7 +59,9 @@ A[Context]
 --> E[Expected Results]
 ```
 
-This structure helps transformation leaders understand not only the solution approach but also the conditions that make a particular pattern effective.
+This structure ensures patterns are documented consistently and allows transformation leaders to understand not only the solution approach but also the conditions that make a particular pattern effective.
+
+By capturing transformation initiatives as patterns, organizations can more easily compare approaches, identify risks, and apply proven solutions across different contexts.
 
 ---
 
@@ -70,8 +77,6 @@ This structure helps transformation leaders understand not only the solution app
 | patterns/4-ai-adoption.md | Pattern for introducing AI capabilities into existing organizational workflows |
 | patterns/5-operating-model-shift.md | Pattern for evolving organizational structures to support new technologies |
 
----
-
 ### 🧰 Templates
 
 | File | Description |
@@ -85,12 +90,11 @@ This structure helps transformation leaders understand not only the solution app
 Understanding transformation patterns helps organizations:
 
 - recognize recurring structural challenges  
-- evaluate different transformation approaches  
-- coordinate initiatives across multiple teams  
-- anticipate risks associated with technology change  
-- design transformation strategies with greater confidence  
+- understand the approaches used to address them  
+- learn from patterns observed across multiple transformation efforts  
+- accelerate decision-making during complex initiatives  
 
-Rather than approaching every transformation as a unique problem, organizations can apply proven patterns to guide decision-making.
+These patterns provide practical guidance for structuring large-scale technology change. Rather than approaching every transformation as a completely unique problem, organizations can apply proven structural patterns to guide planning and execution.
 
 ---
 
@@ -98,22 +102,22 @@ Rather than approaching every transformation as a unique problem, organizations 
 
 This repository is part of the broader **Transformation Operating System** framework.
 
-The Transformation Operating System connects several complementary frameworks:
+Within the Transformation Operating System, transformation patterns describe the organizational and technical structures used to implement change. They bridge the gap between governance decisions and program execution by providing practical models for transformation initiatives.
 
 ```mermaid
 flowchart TB
 
-A[Strategy]
---> B[Governance]
---> C[Transformation Patterns]
---> D[Execution]
---> E[Delivery]
+Strategy[Strategy]
+--> Governance[Governance]
+--> Patterns[Technology Transformation Patterns]
+--> Execution[Program Execution OS]
+--> Delivery[Technical Program Management Toolkit]
 ```
 
 See the architecture overview:  
 https://github.com/somerwalker/transformation-operating-system
 
----
+<hr style="height:5px; background-color: #000; border: none;">
 
 ## Intellectual Property
 
