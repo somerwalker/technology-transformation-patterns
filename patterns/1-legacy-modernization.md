@@ -6,7 +6,7 @@
 
 This pattern describes how organizations modernize legacy systems while maintaining operational continuity.
 
-This pattern is part of the **Transformation Operating System**, which connects strategy, governance, transformation patterns, execution, and delivery.
+This pattern is part of the **Transformation Operating Framework**, which connects strategy, governance, transformation patterns, execution, and delivery.
 
 ---
 
@@ -69,13 +69,47 @@ When applied successfully, this pattern results in:
 
 ---
 
-## Relationship to the Transformation Operating System
+### Example Architecture
 
-Legacy modernization represents a common **Transformation Pattern** within the broader Transformation Operating System.
+The diagram below illustrates a simplified structure commonly used during legacy modernization efforts.
+
+```mermaid
+flowchart LR
+
+Legacy[Legacy System]
+--> API[API / Service Layer]
+
+API --> Modern[Modern Services]
+
+Modern --> Platform[Cloud Platform]
+
+Legacy --> LegacyData[Legacy Data Store]
+Modern --> NewData[Modern Data Platform]
+```
 
 ---
 
-Part of the Transformation Operating Framework  
+## Relationship to the Transformation Operating Framework
+
+Legacy modernization represents a common **Transformation Pattern** within the broader Transformation Operating Framework.
+
+Transformation patterns describe the structural approaches organizations use to implement large-scale technology change. These patterns guide transformation decisions in the Strategy layer that influence program execution and delivery.
+
+```mermaid
+flowchart TB
+
+Strategy[Strategy]
+--> Governance[Governance]
+--> Patterns[Technology Transformation Patterns]
+--> Execution[Program Execution OS]
+--> Delivery[Technical Program Management Toolkit]
+```
+
+---
+---
+
+Part of the **Transformation Operating Framework**
+Transformation Operating Framework
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
