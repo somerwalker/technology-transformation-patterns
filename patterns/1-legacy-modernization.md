@@ -109,6 +109,7 @@ Strategy[Strategy]
 ---
 
 Part of the **Transformation Operating Framework**
+
 Transformation Operating Framework
 https://github.com/somerwalker/transformation-operating-framework
 
