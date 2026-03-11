@@ -1,12 +1,12 @@
 # Transformation Pattern Template
 
 ![Transformation Pattern](https://img.shields.io/badge/Transformation-Pattern-blue)
-![Technology Strategy](https://img.shields.io/badge/Technology-Transformation-green)
-![Operating System](https://img.shields.io/badge/Transformation-Operating%20System-purple)
+![Technology Transformation](https://img.shields.io/badge/Technology-Transformation-green)
+![Operating Framework](https://img.shields.io/badge/Transformation-Operating%20Framework-purple)
 
 This template is used to document recurring technology transformation patterns observed across organizations.
 
-These patterns form part of the **Transformation Operating System**, a broader framework for connecting strategy, governance, transformation, execution, and delivery.
+These patterns form part of the **Transformation Operating Framework**, a broader framework for connecting strategy, governance, transformation patterns, execution, and delivery.
 
 ---
 
@@ -71,20 +71,11 @@ Examples:
 - increased innovation capacity  
 
 ---
-
-## Relationship to the Transformation Operating System
-
-This pattern supports the **Transformation layer** of the Transformation Operating System:
-
-Strategy  
-→ Governance  
-→ **Transformation Patterns**  
-→ Execution  
-→ Delivery
-
 ---
 
-Part of the Transformation Operating Framework  
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
