@@ -47,6 +47,19 @@ Successful operating model shifts typically involve:
 4. establishing new communication rhythms  
 5. reinforcing cultural alignment with new delivery models  
 
+```mermaid
+flowchart LR
+
+A[Traditional Functional Structure]
+--> B[Cross-Functional Teams]
+
+B --> C[Aligned Governance]
+
+C --> D[Shared Ownership]
+
+D --> E[Coordinated Delivery Model]
+```
+
 ---
 
 ## Expected Results
@@ -60,13 +73,26 @@ Organizations applying this pattern often achieve:
 
 ---
 
-## Relationship to the Transformation Operating System
+## Relationship to the Transformation Operating Framework
 
-Operating model shifts support the **Transformation and Execution layers** of the Transformation Operating System.
+Operating model shifts represent a common **Transformation Pattern** within the Transformation Operating Framework. Transformation patterns describe structural approaches organizations use to implement major technology change initiatives and align governance and delivery models with evolving technologies. This repository documents the transformation patterns that operate within the **Patterns layer** of the framework.
+
+```mermaid
+flowchart TB
+
+Strategy[Strategy]
+--> Governance[Governance]
+--> Patterns[Technology Transformation Patterns]
+--> Execution[Program Execution OS]
+--> Delivery[Technical Program Management Toolkit]
+```
 
 ---
+---
 
-Part of the Transformation Operating Framework  
+Part of the **Transformation Operating Framework**
+
+Trasformation Operating Framework
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker

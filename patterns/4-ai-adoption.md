@@ -44,7 +44,21 @@ Successful AI adoption typically includes:
 2. establishing governance and oversight  
 3. piloting AI capabilities in controlled environments  
 4. integrating AI outputs into operational workflows  
-5. measuring value and scaling successful solutions  
+5. measuring value and scaling successful solutions
+
+```mermaid
+flowchart TD
+
+A[Business Use Cases] --> B[Data Preparation]
+
+B --> C[AI Models]
+
+C --> D[Governance and Oversight]
+
+D --> E[Operational Workflows]
+
+E --> F[Value Measurement and Scaling]
+```
 
 ---
 
@@ -59,13 +73,26 @@ Effective AI adoption can lead to:
 
 ---
 
-## Relationship to the Transformation Operating System
+## Relationship to the Transformation Framework
 
-AI adoption is a key transformation initiative within the **Transformation layer of the Transformation Operating System**.
+AI adoption represents a common **Transformation Pattern** within the Transformation Operating Framework. Transformation patterns describe structural approaches organizations use to implement major technology change initiatives and translate strategic decisions into coordinated execution.
+
+```mermaid
+flowchart TB
+
+Strategy[Strategy]
+--> Governance[Governance]
+--> Patterns[Technology Transformation Patterns]
+--> Execution[Program Execution OS]
+--> Delivery[Technical Program Management Toolkit]
+```
 
 ---
+---
 
-Part of the Transformation Operating Framework  
+Part of the **Transformation Operating Framework** 
+
+Transformation Operating Framework
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker

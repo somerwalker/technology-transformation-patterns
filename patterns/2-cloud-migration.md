@@ -6,7 +6,7 @@
 
 This pattern describes how organizations migrate infrastructure and applications to cloud environments.
 
-It is part of the **Transformation Operating System**, which connects strategic objectives to coordinated execution.
+It is part of the **Transformation Operating Framework**, which connects strategy, governance, transformation patterns, execution, and delivery.
 
 ---
 
@@ -65,7 +65,28 @@ Organizations applying this pattern typically achieve:
 
 ---
 
-Part of the Transformation Operating Framework  
+## Relationship to the Transformation Operating Framework
+
+Cloud migration represents a common **Transformation Pattern** within the Transformation Operating Framework. Transformation patterns describe the structural approaches organizations use to implement major technology change initiatives. They help translate strategic decisions into coordinated execution across teams and platforms.
+
+This repository documents the transformation patterns that operate within the **Patterns layer** of the framework.
+
+```mermaid
+flowchart TB
+
+Strategy[Strategy]
+--> Governance[Governance]
+--> Patterns[Technology Transformation Patterns]
+--> Execution[Program Execution OS]
+--> Delivery[Technical Program Management Toolkit]
+```
+
+---
+---
+
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
@@ -73,6 +94,6 @@ Copyright © 2026 Somer Walker
 This material is provided for educational and professional reference.  
 Commercial use or derivative consulting frameworks requires permission from the author.
 
-## Relationship to the Transformation Operating System
 
-Cloud migration represents a transformation initiative within the **Transformation layer** of the Transformation Operating System.
+
+
