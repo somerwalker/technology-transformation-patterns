@@ -28,7 +28,7 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Why Technology Transformation Patterns matter
+## Why Technology Transformation Patterns Matter
 
 Technology transformations rarely occur in completely unique situations. Most organizations encounter similar structural challenges when evolving their technology platforms or operating models.
 
@@ -111,12 +111,16 @@ Strategy[Strategy]
 --> Patterns[Technology Transformation Patterns]
 --> Execution[Program Execution OS]
 --> Delivery[Technical Program Management Toolkit]
+
+Patterns --> AI[AI Transformation Playbook]
+AI --> Execution
 ```
 
 See the architecture overview:  
 https://github.com/somerwalker/transformation-operating-framework
 
-<hr style="height:5px; background-color: #000; border: none;">
+---
+---
 
 ## Intellectual Property
 
@@ -125,13 +129,6 @@ The frameworks and methodologies documented in this repository are original work
 This repository provides conceptual documentation, examples, and templates for educational and professional reference.
 
 Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
-
-## Framework Context
-
-This repository is a supporting component of the **Transformation Operating Framework**.
-
-Transformation Operating Framework  
-https://github.com/somerwalker/transformation-operating-framework
 
 ## Author
 
